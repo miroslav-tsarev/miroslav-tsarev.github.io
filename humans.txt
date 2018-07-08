@@ -1,0 +1,11 @@
+/* Developer */
+	FrontEnd Developer: Miroslav Tsarev
+	Email: miroslav.tsarev7@gmail.com
+	Facebook: www.facebook.com/MiroslavTsarev
+	Site: miroslav-tsarev.top
+
+/* SITE */
+	Created: 2017/12/26
+	Language: Russian
+	Doctype: HTML5
+	IDE: Sublime Text 3
