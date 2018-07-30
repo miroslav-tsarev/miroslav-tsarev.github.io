@@ -2,7 +2,7 @@
 
 importScripts('sw-toolbox.js');
 
-toolbox.precache(["index.html","assets/style/styles.min.css","assets/lib/bootstrap-4.1.1/css/bootstrap-grid.min.css"]);
+toolbox.precache(["index.html","assets/*"]);
 
 toolbox.router.get('assets/img/*', toolbox.cacheFirst);
 
